@@ -14,6 +14,7 @@
         NetBeans plugin to display project's README and other files in the
         project tree
     </description>
+    <url>https://github.com/stefanofornari/nb-project-info</url>
 
     <developers>
         <developer>
