@@ -4,7 +4,7 @@
 
     <groupId>com.github.stefanofornari</groupId>
     <artifactId>nb-project-info</artifactId>
-    <version>0.0.0</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>nbm</packaging>
 
     <name>NetBeans Project Info</name>
@@ -186,7 +186,7 @@
     <scm>
         <connection>scm:git:git@github.com:stefanofornari/nb-project-info.git</connection>
         <url>https://github.com/stefanofornari/nb-project-info</url>
-      <tag>nb-project-info-0.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
