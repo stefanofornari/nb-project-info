@@ -102,9 +102,6 @@
             <activation>
                 <activeByDefault>true</activeByDefault>
             </activation>
-            <modules>
-                <module>formsfx-demo</module>
-            </modules>
         </profile>
 
         <!-- Your release profile -->
