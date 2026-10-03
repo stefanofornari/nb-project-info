@@ -43,7 +43,10 @@ public class ReadmeNodeFactory implements NodeFactory {
     private static final List<String> TARGET_BASE_NAMES = List.of(
         "readme.md", "readme.txt", "readme", "readme.me",
         "changelog.md", "changelog.txt", "changelog",
-        "license.md", "license.txt", "license", "license.html"
+        "changes.md", "changes.txt", "changes",
+        "changeslog.md", "changeslog.txt", "changeslog",
+        "license.md", "license.txt", "license", "license.html",
+        "todo.md", "todo.txt", "todo"
     );
 
     @Override
