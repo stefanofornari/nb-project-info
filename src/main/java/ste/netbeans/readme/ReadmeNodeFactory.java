@@ -1,5 +1,5 @@
 /**
- * Copyright 2026 the original author or authors from the nb-jwt-edito project
+ * Copyright 2026 the original author or authors from the nb-project-info project
  * (https://github.com/stefanofornari/nb-project-info).
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may not
